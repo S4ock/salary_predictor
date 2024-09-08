@@ -8,7 +8,7 @@ The Salary Predictor project is a Python-based tool that predicts salaries based
 
 - **Predict Salaries**: Estimates salaries based on job title, remote friendliness, company size, location, automation risk, AI adoption level, job growth projection, and industry.
 - **Visualization**: Generates visualizations of salary distributions, job title distributions, and remote-friendly distributions.
-- **Model Evaluation**: Evaluates model performance using metrics such as R-squared, Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
+- **Model Evaluation**: Evaluates model performance using metrics such as R-squared and Mean Absolute Error (MAE)
 
 ## Prerequisites
 
